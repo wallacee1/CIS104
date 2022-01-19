@@ -5,3 +5,4 @@ total = hours * rate
 print("You made", total, "dollars")
 
 originalHours = total/rate
+print("Original hours:", originalHours)
